@@ -37,7 +37,7 @@ class HomeState extends State<Home> {
         headerTodayText: Text('امروز', style: TextStyle(fontSize: 15),),
         headerTodayIcon: Icon(Icons.access_alarm, size: 15,),
         datePickerHeight: 280
-    ).initialize();
+    ).init();
 
     super.initState();
   }

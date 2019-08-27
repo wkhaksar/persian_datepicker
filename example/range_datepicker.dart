@@ -30,7 +30,7 @@ class HomeState extends State<Home> {
       datetime: '1397/06/09',
       finishDatetime: '1397/06/15',
       outputFormat: 'YYYY/MM/DD',
-    ).initialize();
+    ).init();
 
     super.initState();
   }

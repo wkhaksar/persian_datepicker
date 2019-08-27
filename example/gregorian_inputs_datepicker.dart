@@ -31,7 +31,7 @@ class HomeState extends State<Home> {
       controller: textEditingController,
       gregorianDatetime: '2018-09-08',
       outputFormat: 'YYYY/MM/DD',
-    ).initialize();
+    ).init();
 
 
 

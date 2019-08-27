@@ -29,7 +29,7 @@ class HomeState extends State<Home> {
       controller: textEditingController,
       datetime: '1397/06/19',
       outputFormat: 'YYYY/MM/DD',
-    ).initialize();
+    ).init();
 
 
 
